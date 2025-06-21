@@ -8,5 +8,11 @@
 	"assets": {
 		"directory": "./",
 		"not_found_handling": "single-page-application"
-	}
+	},
+	"routes": [
+    		{
+     			"pattern": "wasimwise.com",
+      			"custom_domain": true
+   		 }
+  	]
 }
